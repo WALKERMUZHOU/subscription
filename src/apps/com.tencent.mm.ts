@@ -141,7 +141,7 @@ export default defineAppConfig({
       ],
     },
     {
-      enable: false,
+      enable: true,
       key: 5,
       name: '微信红包自动领取',
       desc: '自动领取私聊红包,群聊红包',
